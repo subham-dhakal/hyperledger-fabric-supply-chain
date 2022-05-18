@@ -1,6 +1,7 @@
 # hyperledger-fabric-supply-chain
 
-<h3> Steps to start the project </h3>
+<h2> Steps to start the project </h2>
+move to supply-chain-network folder
 
   <b> Create and run the docker containers  </b> 
   
