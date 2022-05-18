@@ -1,8 +1,8 @@
 # hyperledger-fabric-supply-chain
 
 <h2> Steps to start the project </h2>
-<p>Move to supply-chain-network folder </p>
-<code>cd supply-chain-network </code>
+  <b>Move to supply-chain-network folder </b><br>
+  <code>cd supply-chain-network </code>
 
   <b> Create and run the docker containers  </b><br>
   <code>docker-compose -f ./docker/docker-compose-ca.yaml up -d </code>
