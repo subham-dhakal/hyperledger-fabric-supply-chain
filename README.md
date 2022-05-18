@@ -1,6 +1,6 @@
 # hyperledger-fabric-supply-chain
 
-<h4> Steps to start the project </h4>
+<h3> Steps to start the project </h3>
 
   <b> Create and run the docker containers  </b> 
   
